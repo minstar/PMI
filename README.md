@@ -1,5 +1,9 @@
-# PMI
+# Regularizing Models via Pointwise Mutual Information for Named Entity Recognition
 This repository suggests the code for "Regularizing Models via Pointwise Mutual Information for Named Entity Recognition" (https://arxiv.org/abs/2104.07249)
+
+## Environments
+- cuda 10.2 was used
+- conda environment was suggested with environment.yaml (`conda env create --file environment.yaml`)
 
 ## Additional Requirements
 - seqeval: Used for NER evaluation (`pip install seqeval`)
@@ -53,3 +57,6 @@ python run_ner.py \
   year={2021}
   }
 ```
+
+## Contact
+For help or issues using our code, please create an issue or send an email to `minbyuljeong@korea.ac.kr`
