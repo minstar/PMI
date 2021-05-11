@@ -1,0 +1,13 @@
+B-person
+I-person
+O
+B-location
+I-location
+B-corporation
+I-corporation
+B-product
+I-product
+B-creative-work
+I-creative-work
+B-group
+I-group
