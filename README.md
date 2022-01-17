@@ -1,5 +1,5 @@
-# Regularizing Models via Pointwise Mutual Information for Named Entity Recognition
-This repository suggests the code for "Regularizing Models via Pointwise Mutual Information for Named Entity Recognition" (https://arxiv.org/abs/2104.07249)
+# Regularization for Long Named Entity Recognition
+This repository suggests the code for "Regularization for Long Named Entity Recognition" (https://arxiv.org/abs/2104.07249)
 
 ## Environments
 - cuda 10.2 was used
@@ -51,7 +51,7 @@ python run_ner.py \
 ## Citation
 ```bash
   @article{jeong2021regularizing,
-  title={Regularizing Models via Pointwise Mutual Information for Named Entity Recognition},
+  title={Regularization for Long Named Entity Recognition},
   author={Jeong, Minbyul and Kang, Jaewoo},
   journal={arXiv preprint arXiv:2104.07249},
   year={2021}
